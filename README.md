@@ -1,10 +1,7 @@
 We aimed to access the 850 kHz AM station remotely. We achieved this through taking in the frequency signal, filtering and amplifying it, modulating it, and then playing the result through our speakers.
 
 # Our Design
-## Block Diagram
-
-
-## Our Circuit
+![Circuit and Block Diagrams](AMRadioReceiver-2.jpg)
 
 
 # What We Learned
